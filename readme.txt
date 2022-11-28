@@ -1,0 +1,1 @@
+interfaces, classes, inheritance in Kotlin
